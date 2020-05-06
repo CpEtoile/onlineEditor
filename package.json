@@ -1,0 +1,50 @@
+{
+  "name": "online-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve --ssl true",
+    "test": "test"
+  },
+  "dependencies": {
+    "@angular/animations": "8.2.14",
+    "@angular/common": "8.2.14",
+    "@angular/compiler": "8.2.14",
+    "@angular/core": "8.2.14",
+    "@angular/forms": "8.2.14",
+    "@angular/platform-browser": "8.2.14",
+    "@angular/platform-browser-dynamic": "8.2.14",
+    "@angular/router": "8.2.14"
+  },
+  "devDependencies": {
+    "@angular-builders/jest": "8.3.2",
+    "@angular-devkit/build-angular": "0.803.26",
+    "@angular/cli": "8.3.26",
+    "@angular/compiler-cli": "8.2.14",
+    "@angular/language-service": "8.2.14",
+    "@types/file-saver": "2.0.1",
+    "@types/jest": "24.9.1",
+    "@types/lodash": "4.14.149",
+    "@types/node": "12.12.34",
+    "@typescript-eslint/eslint-plugin": "2.26.0",
+    "@typescript-eslint/parser": "2.26.0",
+    "ts-jest": "24.3.0",
+    "ts-node": "8.8.1",
+    "typescript": "3.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CpEtoile/onlineEditor.git"
+  },
+  "keywords": [
+    "online"
+  ],
+  "author": "Chunpeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CpEtoile/onlineEditor/issues"
+  },
+  "homepage": "https://github.com/CpEtoile/onlineEditor#readme"
+}
